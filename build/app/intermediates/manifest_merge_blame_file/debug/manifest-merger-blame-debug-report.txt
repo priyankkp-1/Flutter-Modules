@@ -1,0 +1,272 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.knp.fireabase_firestore_demo"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+9        android:targetSdkVersion="28" />
+10    <!--
+11         Flutter needs it to communicate with the running application
+12         to allow setting breakpoints, to provide hot reload, etc.
+13    -->
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->/home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/debug/AndroidManifest.xml:6:5-66
+14-->/home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/debug/AndroidManifest.xml:6:22-64
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->/home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/main/AndroidManifest.xml:7:5-79
+15-->/home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/main/AndroidManifest.xml:7:22-76
+16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> <!-- Include required permissions for Google Maps API to run. -->
+16-->[:location] /home/knp/FlutterSpace/fireabase_firestore_demo/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-81
+16-->[:location] /home/knp/FlutterSpace/fireabase_firestore_demo/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-78
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->[com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+17-->[com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:23:22-76
+18
+19    <uses-feature
+19-->[com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+20        android:glEsVersion="0x00020000"
+20-->[com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+21        android:required="true" />
+21-->[com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+22
+23    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+23-->[com.google.android.gms:play-services-measurement-api:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/24f417dd125acd1c022aec65e4435834/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:24:5-68
+23-->[com.google.android.gms:play-services-measurement-api:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/24f417dd125acd1c022aec65e4435834/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:24:22-65
+24    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+24-->[com.google.firebase:firebase-iid:17.1.2] /home/knp/.gradle/caches/transforms-2/files-2.1/94acede10bb352919c337885414ed69e/jetified-firebase-iid-17.1.2/AndroidManifest.xml:26:5-82
+24-->[com.google.firebase:firebase-iid:17.1.2] /home/knp/.gradle/caches/transforms-2/files-2.1/94acede10bb352919c337885414ed69e/jetified-firebase-iid-17.1.2/AndroidManifest.xml:26:22-79
+25    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+25-->[com.google.android.gms:play-services-measurement:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/6e8264239e96c785c47f5d817f1a46bd/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:26:5-110
+25-->[com.google.android.gms:play-services-measurement:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/6e8264239e96c785c47f5d817f1a46bd/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:26:22-107
+26    <!--
+27 io.flutter.app.FlutterApplication is an android.app.Application that
+28         calls FlutterMain.startInitialization(this); in its onCreate method.
+29         In most cases you can leave this as-is, but you if you want to provide
+30         additional functionality it is fine to subclass or reimplement
+31         FlutterApplication and put your custom class here.
+32    -->
+33    <application
+33-->/home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/main/AndroidManifest.xml:14:5-43:19
+34        android:name="io.flutter.app.FlutterApplication"
+34-->/home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/main/AndroidManifest.xml:15:9-57
+35        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+35-->[androidx.core:core:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/c6efbb44fe0eccf93c45efc2f5961682/core-1.0.0/AndroidManifest.xml:22:18-86
+36        android:debuggable="true"
+37        android:icon="@mipmap/ic_launcher"
+37-->/home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/main/AndroidManifest.xml:16:9-43
+38        android:label="Flutter Modules" >
+38-->/home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/main/AndroidManifest.xml:17:9-40
+39        <meta-data
+39-->/home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/main/AndroidManifest.xml:20:9-22:71
+40            android:name="com.google.android.geo.API_KEY"
+40-->/home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/main/AndroidManifest.xml:21:13-58
+41            android:value="AIzaSyASw_MMERrnweLqvPu3jMvXbsSdVst-HDo" />
+41-->/home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/main/AndroidManifest.xml:22:13-68
+42
+43        <activity
+43-->/home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/main/AndroidManifest.xml:24:9-42:20
+44            android:name="com.knp.fireabase_firestore_demo.MainActivity"
+44-->/home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/main/AndroidManifest.xml:25:13-41
+45            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+45-->/home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/main/AndroidManifest.xml:26:13-144
+46            android:hardwareAccelerated="true"
+46-->/home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/main/AndroidManifest.xml:27:13-47
+47            android:launchMode="singleTop"
+47-->/home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/main/AndroidManifest.xml:28:13-43
+48            android:theme="@style/LaunchTheme"
+48-->/home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/main/AndroidManifest.xml:29:13-47
+49            android:windowSoftInputMode="adjustResize" >
+49-->/home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/main/AndroidManifest.xml:30:13-55
+50
+51            <!--
+52                 This keeps the window background of the activity showing
+53                 until Flutter renders its first frame. It can be removed if
+54                 there is no splash screen (such as the default splash screen
+55                 defined in @style/LaunchTheme).
+56            -->
+57            <meta-data
+57-->/home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/main/AndroidManifest.xml:35:13-37:40
+58                android:name="io.flutter.app.android.SplashScreenUntilFirstFrame"
+58-->/home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/main/AndroidManifest.xml:36:17-82
+59                android:value="true" />
+59-->/home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/main/AndroidManifest.xml:37:17-37
+60
+61            <intent-filter>
+61-->/home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/main/AndroidManifest.xml:38:13-41:29
+62                <action android:name="android.intent.action.MAIN" />
+62-->/home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/main/AndroidManifest.xml:39:17-69
+62-->/home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/main/AndroidManifest.xml:39:25-66
+63
+64                <category android:name="android.intent.category.LAUNCHER" />
+64-->/home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/main/AndroidManifest.xml:40:17-77
+64-->/home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/main/AndroidManifest.xml:40:27-74
+65            </intent-filter>
+66        </activity>
+67
+68        <service
+68-->[:cloud_firestore] /home/knp/FlutterSpace/fireabase_firestore_demo/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+69            android:name="com.google.firebase.components.ComponentDiscoveryService"
+69-->[:cloud_firestore] /home/knp/FlutterSpace/fireabase_firestore_demo/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
+70            android:exported="false" >
+70-->[com.google.android.gms:play-services-measurement-api:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/24f417dd125acd1c022aec65e4435834/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:29:13-37
+71            <meta-data
+71-->[:cloud_firestore] /home/knp/FlutterSpace/fireabase_firestore_demo/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+72                android:name="com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar"
+72-->[:cloud_firestore] /home/knp/FlutterSpace/fireabase_firestore_demo/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-133
+73                android:value="com.google.firebase.components.ComponentRegistrar" />
+73-->[:cloud_firestore] /home/knp/FlutterSpace/fireabase_firestore_demo/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+74            <meta-data
+74-->[:firebase_core] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+75                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar"
+75-->[:firebase_core] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-123
+76                android:value="com.google.firebase.components.ComponentRegistrar" />
+76-->[:firebase_core] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+77            <meta-data
+77-->[:firebase_storage] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+78                android:name="com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar"
+78-->[:firebase_storage] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-126
+79                android:value="com.google.firebase.components.ComponentRegistrar" />
+79-->[:firebase_storage] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+80            <meta-data
+80-->[com.google.firebase:firebase-firestore:19.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f3fa31746c25a2a91f2a353c068e99fc/jetified-firebase-firestore-19.0.0/AndroidManifest.xml:18:13-20:85
+81                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+81-->[com.google.firebase:firebase-firestore:19.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f3fa31746c25a2a91f2a353c068e99fc/jetified-firebase-firestore-19.0.0/AndroidManifest.xml:19:17-111
+82                android:value="com.google.firebase.components.ComponentRegistrar" />
+82-->[com.google.firebase:firebase-firestore:19.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f3fa31746c25a2a91f2a353c068e99fc/jetified-firebase-firestore-19.0.0/AndroidManifest.xml:20:17-82
+83            <meta-data
+83-->[com.google.firebase:firebase-storage:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/b6dd6c39a9c18076a8b1dc8f209ceedd/jetified-firebase-storage-17.0.0/AndroidManifest.xml:31:13-33:85
+84                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+84-->[com.google.firebase:firebase-storage:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/b6dd6c39a9c18076a8b1dc8f209ceedd/jetified-firebase-storage-17.0.0/AndroidManifest.xml:32:17-107
+85                android:value="com.google.firebase.components.ComponentRegistrar" />
+85-->[com.google.firebase:firebase-storage:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/b6dd6c39a9c18076a8b1dc8f209ceedd/jetified-firebase-storage-17.0.0/AndroidManifest.xml:33:17-82
+86            <meta-data
+86-->[com.google.android.gms:play-services-measurement-api:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/24f417dd125acd1c022aec65e4435834/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:30:13-32:85
+87                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+87-->[com.google.android.gms:play-services-measurement-api:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/24f417dd125acd1c022aec65e4435834/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:31:17-139
+88                android:value="com.google.firebase.components.ComponentRegistrar" />
+88-->[com.google.android.gms:play-services-measurement-api:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/24f417dd125acd1c022aec65e4435834/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:32:17-82
+89            <meta-data
+89-->[com.google.firebase:firebase-iid:17.1.2] /home/knp/.gradle/caches/transforms-2/files-2.1/94acede10bb352919c337885414ed69e/jetified-firebase-iid-17.1.2/AndroidManifest.xml:32:13-34:85
+90                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+90-->[com.google.firebase:firebase-iid:17.1.2] /home/knp/.gradle/caches/transforms-2/files-2.1/94acede10bb352919c337885414ed69e/jetified-firebase-iid-17.1.2/AndroidManifest.xml:33:17-96
+91                android:value="com.google.firebase.components.ComponentRegistrar" />
+91-->[com.google.firebase:firebase-iid:17.1.2] /home/knp/.gradle/caches/transforms-2/files-2.1/94acede10bb352919c337885414ed69e/jetified-firebase-iid-17.1.2/AndroidManifest.xml:34:17-82
+92        </service> <!-- Needs to be explicitly declared on P+ -->
+93        <uses-library
+93-->[com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+94            android:name="org.apache.http.legacy"
+94-->[com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+95            android:required="false" />
+95-->[com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+96
+97        <receiver
+97-->[com.google.firebase:firebase-iid:17.1.2] /home/knp/.gradle/caches/transforms-2/files-2.1/94acede10bb352919c337885414ed69e/jetified-firebase-iid-17.1.2/AndroidManifest.xml:37:9-44:20
+98            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+98-->[com.google.firebase:firebase-iid:17.1.2] /home/knp/.gradle/caches/transforms-2/files-2.1/94acede10bb352919c337885414ed69e/jetified-firebase-iid-17.1.2/AndroidManifest.xml:38:13-78
+99            android:exported="true"
+99-->[com.google.firebase:firebase-iid:17.1.2] /home/knp/.gradle/caches/transforms-2/files-2.1/94acede10bb352919c337885414ed69e/jetified-firebase-iid-17.1.2/AndroidManifest.xml:39:13-36
+100            android:permission="com.google.android.c2dm.permission.SEND" >
+100-->[com.google.firebase:firebase-iid:17.1.2] /home/knp/.gradle/caches/transforms-2/files-2.1/94acede10bb352919c337885414ed69e/jetified-firebase-iid-17.1.2/AndroidManifest.xml:40:13-73
+101            <intent-filter>
+101-->[com.google.firebase:firebase-iid:17.1.2] /home/knp/.gradle/caches/transforms-2/files-2.1/94acede10bb352919c337885414ed69e/jetified-firebase-iid-17.1.2/AndroidManifest.xml:41:13-43:29
+102                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+102-->[com.google.firebase:firebase-iid:17.1.2] /home/knp/.gradle/caches/transforms-2/files-2.1/94acede10bb352919c337885414ed69e/jetified-firebase-iid-17.1.2/AndroidManifest.xml:42:17-81
+102-->[com.google.firebase:firebase-iid:17.1.2] /home/knp/.gradle/caches/transforms-2/files-2.1/94acede10bb352919c337885414ed69e/jetified-firebase-iid-17.1.2/AndroidManifest.xml:42:25-78
+103            </intent-filter>
+104        </receiver>
+105        <!--
+106             FirebaseInstanceIdService performs security checks at runtime,
+107             no need for explicit permissions despite exported="true"
+108        -->
+109        <service
+109-->[com.google.firebase:firebase-iid:17.1.2] /home/knp/.gradle/caches/transforms-2/files-2.1/94acede10bb352919c337885414ed69e/jetified-firebase-iid-17.1.2/AndroidManifest.xml:50:9-56:19
+110            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+110-->[com.google.firebase:firebase-iid:17.1.2] /home/knp/.gradle/caches/transforms-2/files-2.1/94acede10bb352919c337885414ed69e/jetified-firebase-iid-17.1.2/AndroidManifest.xml:51:13-77
+111            android:exported="true" >
+111-->[com.google.firebase:firebase-iid:17.1.2] /home/knp/.gradle/caches/transforms-2/files-2.1/94acede10bb352919c337885414ed69e/jetified-firebase-iid-17.1.2/AndroidManifest.xml:52:13-36
+112            <intent-filter android:priority="-500" >
+112-->[com.google.firebase:firebase-iid:17.1.2] /home/knp/.gradle/caches/transforms-2/files-2.1/94acede10bb352919c337885414ed69e/jetified-firebase-iid-17.1.2/AndroidManifest.xml:53:13-55:29
+112-->[com.google.firebase:firebase-iid:17.1.2] /home/knp/.gradle/caches/transforms-2/files-2.1/94acede10bb352919c337885414ed69e/jetified-firebase-iid-17.1.2/AndroidManifest.xml:53:28-51
+113                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+113-->[com.google.firebase:firebase-iid:17.1.2] /home/knp/.gradle/caches/transforms-2/files-2.1/94acede10bb352919c337885414ed69e/jetified-firebase-iid-17.1.2/AndroidManifest.xml:54:17-80
+113-->[com.google.firebase:firebase-iid:17.1.2] /home/knp/.gradle/caches/transforms-2/files-2.1/94acede10bb352919c337885414ed69e/jetified-firebase-iid-17.1.2/AndroidManifest.xml:54:25-77
+114            </intent-filter>
+115        </service>
+116
+117        <provider
+117-->[com.google.firebase:firebase-common:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/c66bd90d75c7ac0d087afdcb111af4f0/jetified-firebase-common-17.0.0/AndroidManifest.xml:12:9-16:39
+118            android:name="com.google.firebase.provider.FirebaseInitProvider"
+118-->[com.google.firebase:firebase-common:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/c66bd90d75c7ac0d087afdcb111af4f0/jetified-firebase-common-17.0.0/AndroidManifest.xml:13:13-77
+119            android:authorities="com.knp.fireabase_firestore_demo.firebaseinitprovider"
+119-->[com.google.firebase:firebase-common:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/c66bd90d75c7ac0d087afdcb111af4f0/jetified-firebase-common-17.0.0/AndroidManifest.xml:14:13-72
+120            android:exported="false"
+120-->[com.google.firebase:firebase-common:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/c66bd90d75c7ac0d087afdcb111af4f0/jetified-firebase-common-17.0.0/AndroidManifest.xml:15:13-37
+121            android:initOrder="100" />
+121-->[com.google.firebase:firebase-common:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/c66bd90d75c7ac0d087afdcb111af4f0/jetified-firebase-common-17.0.0/AndroidManifest.xml:16:13-36
+122
+123        <activity
+123-->[com.google.android.gms:play-services-base:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/61050d192d7b40096effddbc75f65a23/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+124            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+124-->[com.google.android.gms:play-services-base:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/61050d192d7b40096effddbc75f65a23/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+125            android:exported="false"
+125-->[com.google.android.gms:play-services-base:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/61050d192d7b40096effddbc75f65a23/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+126            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+126-->[com.google.android.gms:play-services-base:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/61050d192d7b40096effddbc75f65a23/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+127
+128        <receiver
+128-->[com.google.android.gms:play-services-measurement:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/6e8264239e96c785c47f5d817f1a46bd/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:29:9-33:20
+129            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+129-->[com.google.android.gms:play-services-measurement:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/6e8264239e96c785c47f5d817f1a46bd/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:30:13-85
+130            android:enabled="true"
+130-->[com.google.android.gms:play-services-measurement:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/6e8264239e96c785c47f5d817f1a46bd/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:31:13-35
+131            android:exported="false" >
+131-->[com.google.android.gms:play-services-measurement:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/6e8264239e96c785c47f5d817f1a46bd/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:32:13-37
+132        </receiver>
+133        <receiver
+133-->[com.google.android.gms:play-services-measurement:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/6e8264239e96c785c47f5d817f1a46bd/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:34:9-42:20
+134            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+134-->[com.google.android.gms:play-services-measurement:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/6e8264239e96c785c47f5d817f1a46bd/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:35:13-100
+135            android:enabled="true"
+135-->[com.google.android.gms:play-services-measurement:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/6e8264239e96c785c47f5d817f1a46bd/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:36:13-35
+136            android:exported="true"
+136-->[com.google.android.gms:play-services-measurement:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/6e8264239e96c785c47f5d817f1a46bd/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:37:13-36
+137            android:permission="android.permission.INSTALL_PACKAGES" >
+137-->[com.google.android.gms:play-services-measurement:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/6e8264239e96c785c47f5d817f1a46bd/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:38:13-69
+138            <intent-filter>
+138-->[com.google.android.gms:play-services-measurement:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/6e8264239e96c785c47f5d817f1a46bd/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:39:13-41:29
+139                <action android:name="com.android.vending.INSTALL_REFERRER" />
+139-->[com.google.android.gms:play-services-measurement:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/6e8264239e96c785c47f5d817f1a46bd/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:40:17-79
+139-->[com.google.android.gms:play-services-measurement:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/6e8264239e96c785c47f5d817f1a46bd/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:40:25-76
+140            </intent-filter>
+141        </receiver>
+142
+143        <service
+143-->[com.google.android.gms:play-services-measurement:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/6e8264239e96c785c47f5d817f1a46bd/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:44:9-47:40
+144            android:name="com.google.android.gms.measurement.AppMeasurementService"
+144-->[com.google.android.gms:play-services-measurement:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/6e8264239e96c785c47f5d817f1a46bd/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:45:13-84
+145            android:enabled="true"
+145-->[com.google.android.gms:play-services-measurement:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/6e8264239e96c785c47f5d817f1a46bd/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:46:13-35
+146            android:exported="false" />
+146-->[com.google.android.gms:play-services-measurement:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/6e8264239e96c785c47f5d817f1a46bd/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:47:13-37
+147        <service
+147-->[com.google.android.gms:play-services-measurement:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/6e8264239e96c785c47f5d817f1a46bd/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:48:9-52:72
+148            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+148-->[com.google.android.gms:play-services-measurement:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/6e8264239e96c785c47f5d817f1a46bd/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:49:13-87
+149            android:enabled="true"
+149-->[com.google.android.gms:play-services-measurement:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/6e8264239e96c785c47f5d817f1a46bd/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:50:13-35
+150            android:exported="false"
+150-->[com.google.android.gms:play-services-measurement:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/6e8264239e96c785c47f5d817f1a46bd/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:51:13-37
+151            android:permission="android.permission.BIND_JOB_SERVICE" />
+151-->[com.google.android.gms:play-services-measurement:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/6e8264239e96c785c47f5d817f1a46bd/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:52:13-69
+152
+153        <meta-data
+153-->[com.google.android.gms:play-services-basement:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/8f20a297d17e570b6cc42ef3d16609e2/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+154            android:name="com.google.android.gms.version"
+154-->[com.google.android.gms:play-services-basement:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/8f20a297d17e570b6cc42ef3d16609e2/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+155            android:value="@integer/google_play_services_version" />
+155-->[com.google.android.gms:play-services-basement:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/8f20a297d17e570b6cc42ef3d16609e2/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+156    </application>
+157
+158</manifest>
