@@ -90,11 +90,6 @@
               <item name="fireabase_firestore_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="fireabase_firestore_demo" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="fireabase_firestore_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fireabase_firestore_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -165,7 +160,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1008" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20917822" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20917822" />
       <window_info id="Captures" order="1" side_tool="true" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -179,7 +174,7 @@
       <window_info anchor="bottom" id="TODO" order="2" weight="0.32943925" />
       <window_info anchor="bottom" id="Android Profiler" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Debug" order="4" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="5" visible="true" weight="0.6159251" />
+      <window_info anchor="bottom" id="Terminal" order="5" weight="0.6159251" />
       <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" weight="0.32943925" />
       <window_info anchor="bottom" id="Flutter Performance" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="8" />

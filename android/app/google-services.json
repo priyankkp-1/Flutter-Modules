@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "151878636079",
+    "firebase_url": "https://firestoreapp-73b7d.firebaseio.com",
+    "project_id": "firestoreapp-73b7d",
+    "storage_bucket": "firestoreapp-73b7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151878636079:android:f7cf038c5780f7ec",
+        "android_client_info": {
+          "package_name": "com.knp.fireabase_firestore_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151878636079-iovtatmbmlev995rujoooivl3f2qkru6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1dgjiETOiTL8ThAQW0JlYgh-eQmoSg9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151878636079-iovtatmbmlev995rujoooivl3f2qkru6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "151878636079-e4mtmpq901mseqibiajo3mlob3ti4iag.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.knp.fireabaseFirestoreDemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
