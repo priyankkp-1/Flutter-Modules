@@ -1,4 +1,5 @@
 import 'package:fireabase_firestore_demo/components/MainCard.dart';
+import 'package:fireabase_firestore_demo/screens/SplashScreen.dart';
 import 'package:flutter/material.dart';
 
 import 'components/MainCard.dart';
@@ -16,7 +17,11 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Flutter Modules'),
+      home: new SplashScreen(),
+      routes: <String, WidgetBuilder>{
+        '/main': (BuildContext context) =>
+            new MyHomePage(title: 'Flutter Modules')
+      },
     );
   }
 }

@@ -7,7 +7,7 @@ import 'package:flutter/material.dart';
 
 class DatabaseScreen extends StatefulWidget {
   @override
-  State<StatefulWidget> createState() => _databaseScreen();
+  State<StatefulWidget> createState() => _dataBaseScreen();
 
   final title;
   final index;
@@ -15,7 +15,7 @@ class DatabaseScreen extends StatefulWidget {
   DatabaseScreen({this.title, this.index});
 }
 
-class _databaseScreen extends State<DatabaseScreen> {
+class _dataBaseScreen extends State<DatabaseScreen> {
   List<Client> testTheDB = [
     Client(firstName: "Brijesh", lastName: "Goswami", blocked: false),
     Client(firstName: "Dakshay", lastName: "Sanghvi", blocked: false),
