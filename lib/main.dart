@@ -39,10 +39,22 @@ class _MyHomePageState extends State<MyHomePage> {
   initState() {
     taskTitleInputController = new TextEditingController();
     taskDescripInputController = new TextEditingController();
-    mainList.add(
-        MainListModel(image: "assets/images/firebase.png", title: "Firebase"));
     mainList.add(MainListModel(
-        image: "assets/images/google_map.png", title: "Google Map"));
+        image: "assets/images/firebase.png",
+        title: "Firebase",
+        subTitle: "firestore demo"));
+    mainList.add(MainListModel(
+        image: "assets/images/google_map.png",
+        title: "Google Map",
+        subTitle: "google map demo"));
+    mainList.add(MainListModel(
+        image: "assets/images/firebase.png",
+        title: "Firebase Auth",
+        subTitle: "authentication demo"));
+    mainList.add(MainListModel(
+        image: "assets/images/database.png",
+        title: "Database",
+        subTitle: "SQLite Database"));
 
     super.initState();
   }
@@ -61,6 +73,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 return new MainCard(
                   image: mainList[index].image,
                   title: mainList[index].title,
+                  subTitle: mainList[index].subTitle,
                   index: index,
                 );
               }),

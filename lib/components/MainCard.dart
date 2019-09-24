@@ -1,5 +1,8 @@
+import 'package:fireabase_firestore_demo/screens/DatabaseScreen.dart';
 import 'package:fireabase_firestore_demo/screens/FirebaseStorage.dart';
 import 'package:fireabase_firestore_demo/screens/GoogleMapScreen.dart';
+import 'package:fireabase_firestore_demo/screens/LoginSignUpPage.dart';
+import 'package:fireabase_firestore_demo/service/authentication.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
@@ -7,8 +10,9 @@ class MainCard extends StatelessWidget {
   final image;
   final title;
   final index;
+  final subTitle;
 
-  MainCard({@required this.image, @required this.title, this.index});
+  MainCard({@required this.image, @required this.title, this.subTitle, this.index});
 
   @override
   Widget build(BuildContext context) {
@@ -30,13 +34,29 @@ class MainCard extends StatelessWidget {
                                 title: title,
                                 index: index,
                               )));
-                } else {
+                } else if (title == "Google Map") {
                   Navigator.push(
                       context,
                       MaterialPageRoute(
                           builder: (context) => GoogleMapScreen(
                                 title: title,
                                 index: index,
+                              )));
+                }  else if (title == "Database") {
+                  Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                          builder: (context) => DatabaseScreen(
+                            title: title,
+                            index: index,
+                          )));
+                } else {
+                  Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                          builder: (context) => LoginSignUpPage(
+                                index: index,
+                                auth: new Auth(),
                               )));
                 }
               },
@@ -58,7 +78,7 @@ class MainCard extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.stretch,
                 children: <Widget>[
                   Text(title, style: TextStyle(fontSize: 28)),
-                  Text("Sub title", style: TextStyle(fontSize: 22)),
+                  Text(subTitle, style: TextStyle(fontSize: 22)),
                 ],
               ),
             )

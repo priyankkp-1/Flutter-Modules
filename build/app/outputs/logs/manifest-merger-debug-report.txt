@@ -6,21 +6,28 @@ INJECTED from /home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/ma
 INJECTED from /home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/main/AndroidManifest.xml:1:1-44:12
 MERGED from /home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/main/AndroidManifest.xml:1:1-44:12
 MERGED from [androidx.multidex:multidex:2.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/378446f5e3c3cd197ed10ecf6256abae/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [:location] /home/knp/FlutterSpace/fireabase_firestore_demo/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-10:12
-MERGED from [:google_maps_flutter] /home/knp/FlutterSpace/fireabase_firestore_demo/build/google_maps_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:cloud_firestore] /home/knp/FlutterSpace/fireabase_firestore_demo/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
-MERGED from [:firebase_core] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
 MERGED from [:firebase_storage] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
-MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/a4db93e04ddf7ab6b8e20cc80ac42b46/jetified-play-services-location-16.0.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:17:1-38:12
-MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f3fa31746c25a2a91f2a353c068e99fc/jetified-firebase-firestore-19.0.0/AndroidManifest.xml:2:1-24:12
+MERGED from [:sqflite] /home/knp/FlutterSpace/fireabase_firestore_demo/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_webview_plugin] /home/knp/FlutterSpace/fireabase_firestore_demo/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:path_provider] /home/knp/FlutterSpace/fireabase_firestore_demo/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:cloud_firestore] /home/knp/FlutterSpace/fireabase_firestore_demo/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:google_maps_flutter] /home/knp/FlutterSpace/fireabase_firestore_demo/build/google_maps_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:location] /home/knp/FlutterSpace/fireabase_firestore_demo/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-10:12
+MERGED from [:firebase_core] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_auth] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
 MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/b6dd6c39a9c18076a8b1dc8f209ceedd/jetified-firebase-storage-17.0.0/AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f3fa31746c25a2a91f2a353c068e99fc/jetified-firebase-firestore-19.0.0/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/a4e875f91425a8186326da5daae7d550/jetified-firebase-auth-17.0.0/AndroidManifest.xml:17:1-42:12
 MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/9e0617c6de38f9bb7ab93d66e9aeed0a/jetified-firebase-auth-interop-17.0.0/AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.firebase:firebase-core:16.0.9] /home/knp/.gradle/caches/transforms-2/files-2.1/744d6d5c2982c45a2910e5cae5cf4fae/firebase-core-16.0.9/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-analytics:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/de5ac2f3dcef3eaafcd88008e393a798/firebase-analytics-16.5.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/24f417dd125acd1c022aec65e4435834/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:17:1-36:12
 MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/knp/.gradle/caches/transforms-2/files-2.1/94acede10bb352919c337885414ed69e/jetified-firebase-iid-17.1.2/AndroidManifest.xml:17:1-59:12
 MERGED from [com.google.firebase:firebase-common:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/c66bd90d75c7ac0d087afdcb111af4f0/jetified-firebase-common-17.0.0/AndroidManifest.xml:2:1-19:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/db46b13d3b2010db442dd5a45676e816/appcompat-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/a4db93e04ddf7ab6b8e20cc80ac42b46/jetified-play-services-location-16.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/knp/.gradle/caches/transforms-2/files-2.1/975136eeddd1e2c60667a8bd0cfe944d/play-services-flags-16.0.1/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/knp/.gradle/caches/transforms-2/files-2.1/d5c7156e3036a10ae7e5828ce66cc4d6/jetified-firebase-iid-interop-16.0.1/AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/61050d192d7b40096effddbc75f65a23/play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
 MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/ad4aa39249d4df40ad29a9a19feae70b/play-services-places-placereport-16.0.0/AndroidManifest.xml:17:1-24:12
@@ -35,8 +42,10 @@ MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/kn
 MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/a52eeb5f94e34931a256943a24cbae45/jetified-play-services-ads-identifier-16.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/8f20a297d17e570b6cc42ef3d16609e2/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.fragment:fragment:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/ee1ec9f89f00f8cddce4510008e1edca/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/e0d8aedfaec9936262ca213e73dd4b9f/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/17b125378fc55b264e31eccaff8fa6ca/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/240b5d9dac701614a3199e1fe97e5b6c/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/29ce464ac5ca0958a20e02a1ba3f00ec/vectordrawable-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/6d12fcce36df08538717b88e14b43a49/loader-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/955a6585d7a9c18d6bf6a87f6ee65069/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/4536f117103b705f94cfbc0bddba178d/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -47,19 +56,19 @@ MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/knp/.gr
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/853d26324799c26871954791069483df/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/c6efbb44fe0eccf93c45efc2f5961682/core-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/43c49b12233cfc1bc27316e9746a37f4/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/34bd167e41796762d187a04a2472565c/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/43face5bbfcb9a9521bfe7a06757c249/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/0694e27135a967a4619b8381997d15ff/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/a7ed0ca913094dcd572a2a491ee77296/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/43face5bbfcb9a9521bfe7a06757c249/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/e4a94d2054024c8be95b68226af78a53/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/37caa00d68abfda0e932890140749490/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/e1d01877c650a22b3c257891754df4cc/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/34bd167e41796762d187a04a2472565c/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/cfc7a075599825242ccb3bf9049138d1/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/942ae5bb408d75da4f7f89b1ab4a5794/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/3f7255e5c39577612d42757c6a1a973c/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/0694e27135a967a4619b8381997d15ff/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [io.grpc:grpc-android:1.16.1] /home/knp/.gradle/caches/transforms-2/files-2.1/efa470d3bfffb337a33cf332eccd38b2/grpc-android-1.16.1/AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /home/knp/.gradle/caches/transforms-2/files-2.1/3c33eaa10dea5d2e4aaf888c6b3943ed/firebase-database-collection-16.0.1/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] /home/knp/.gradle/caches/transforms-2/files-2.1/0615c1481e176c563926cb1cb63678bb/protolite-well-known-types-16.0.1/AndroidManifest.xml:2:1-11:12
-MERGED from [io.grpc:grpc-android:1.16.1] /home/knp/.gradle/caches/transforms-2/files-2.1/efa470d3bfffb337a33cf332eccd38b2/grpc-android-1.16.1/AndroidManifest.xml:2:1-13:12
 INJECTED from /home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/debug/AndroidManifest.xml:1:1-7:12
@@ -90,20 +99,22 @@ MERGED from [:location] /home/knp/FlutterSpace/fireabase_firestore_demo/build/lo
 		ADDED from /home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/main/AndroidManifest.xml:7:22-76
 application
 ADDED from /home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/main/AndroidManifest.xml:14:5-43:19
+MERGED from [:firebase_storage] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_storage] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:flutter_webview_plugin] /home/knp/FlutterSpace/fireabase_firestore_demo/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-19:19
+MERGED from [:flutter_webview_plugin] /home/knp/FlutterSpace/fireabase_firestore_demo/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-19:19
 MERGED from [:cloud_firestore] /home/knp/FlutterSpace/fireabase_firestore_demo/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
 MERGED from [:cloud_firestore] /home/knp/FlutterSpace/fireabase_firestore_demo/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
 MERGED from [:firebase_core] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
 MERGED from [:firebase_core] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_storage] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_storage] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
-MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/a4db93e04ddf7ab6b8e20cc80ac42b46/jetified-play-services-location-16.0.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/a4db93e04ddf7ab6b8e20cc80ac42b46/jetified-play-services-location-16.0.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
-MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
-MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f3fa31746c25a2a91f2a353c068e99fc/jetified-firebase-firestore-19.0.0/AndroidManifest.xml:16:5-22:19
-MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f3fa31746c25a2a91f2a353c068e99fc/jetified-firebase-firestore-19.0.0/AndroidManifest.xml:16:5-22:19
+MERGED from [:firebase_auth] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
 MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/b6dd6c39a9c18076a8b1dc8f209ceedd/jetified-firebase-storage-17.0.0/AndroidManifest.xml:29:5-35:19
 MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/b6dd6c39a9c18076a8b1dc8f209ceedd/jetified-firebase-storage-17.0.0/AndroidManifest.xml:29:5-35:19
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f3fa31746c25a2a91f2a353c068e99fc/jetified-firebase-firestore-19.0.0/AndroidManifest.xml:16:5-22:19
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f3fa31746c25a2a91f2a353c068e99fc/jetified-firebase-firestore-19.0.0/AndroidManifest.xml:16:5-22:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/a4e875f91425a8186326da5daae7d550/jetified-firebase-auth-17.0.0/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/a4e875f91425a8186326da5daae7d550/jetified-firebase-auth-17.0.0/AndroidManifest.xml:23:5-40:19
 MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/9e0617c6de38f9bb7ab93d66e9aeed0a/jetified-firebase-auth-interop-17.0.0/AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/9e0617c6de38f9bb7ab93d66e9aeed0a/jetified-firebase-auth-interop-17.0.0/AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-core:16.0.9] /home/knp/.gradle/caches/transforms-2/files-2.1/744d6d5c2982c45a2910e5cae5cf4fae/firebase-core-16.0.9/AndroidManifest.xml:7:5-20
@@ -116,6 +127,10 @@ MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/knp/.gradle/caches/t
 MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/knp/.gradle/caches/transforms-2/files-2.1/94acede10bb352919c337885414ed69e/jetified-firebase-iid-17.1.2/AndroidManifest.xml:28:5-57:19
 MERGED from [com.google.firebase:firebase-common:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/c66bd90d75c7ac0d087afdcb111af4f0/jetified-firebase-common-17.0.0/AndroidManifest.xml:11:5-17:19
 MERGED from [com.google.firebase:firebase-common:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/c66bd90d75c7ac0d087afdcb111af4f0/jetified-firebase-common-17.0.0/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/a4db93e04ddf7ab6b8e20cc80ac42b46/jetified-play-services-location-16.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/a4db93e04ddf7ab6b8e20cc80ac42b46/jetified-play-services-location-16.0.0/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/knp/.gradle/caches/transforms-2/files-2.1/d5c7156e3036a10ae7e5828ce66cc4d6/jetified-firebase-iid-interop-16.0.1/AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/knp/.gradle/caches/transforms-2/files-2.1/d5c7156e3036a10ae7e5828ce66cc4d6/jetified-firebase-iid-interop-16.0.1/AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/61050d192d7b40096effddbc75f65a23/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
@@ -198,24 +213,30 @@ INJECTED from /home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/ma
 INJECTED from /home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/main/AndroidManifest.xml
 MERGED from [androidx.multidex:multidex:2.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/378446f5e3c3cd197ed10ecf6256abae/multidex-2.0.0/AndroidManifest.xml:20:5-43
 MERGED from [androidx.multidex:multidex:2.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/378446f5e3c3cd197ed10ecf6256abae/multidex-2.0.0/AndroidManifest.xml:20:5-43
-MERGED from [:location] /home/knp/FlutterSpace/fireabase_firestore_demo/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:location] /home/knp/FlutterSpace/fireabase_firestore_demo/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:google_maps_flutter] /home/knp/FlutterSpace/fireabase_firestore_demo/build/google_maps_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:google_maps_flutter] /home/knp/FlutterSpace/fireabase_firestore_demo/build/google_maps_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:cloud_firestore] /home/knp/FlutterSpace/fireabase_firestore_demo/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:cloud_firestore] /home/knp/FlutterSpace/fireabase_firestore_demo/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_core] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_core] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:firebase_storage] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:firebase_storage] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/a4db93e04ddf7ab6b8e20cc80ac42b46/jetified-play-services-location-16.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/a4db93e04ddf7ab6b8e20cc80ac42b46/jetified-play-services-location-16.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f3fa31746c25a2a91f2a353c068e99fc/jetified-firebase-firestore-19.0.0/AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f3fa31746c25a2a91f2a353c068e99fc/jetified-firebase-firestore-19.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [:sqflite] /home/knp/FlutterSpace/fireabase_firestore_demo/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /home/knp/FlutterSpace/fireabase_firestore_demo/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_webview_plugin] /home/knp/FlutterSpace/fireabase_firestore_demo/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-44
+MERGED from [:flutter_webview_plugin] /home/knp/FlutterSpace/fireabase_firestore_demo/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-44
+MERGED from [:path_provider] /home/knp/FlutterSpace/fireabase_firestore_demo/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /home/knp/FlutterSpace/fireabase_firestore_demo/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /home/knp/FlutterSpace/fireabase_firestore_demo/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /home/knp/FlutterSpace/fireabase_firestore_demo/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter] /home/knp/FlutterSpace/fireabase_firestore_demo/build/google_maps_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter] /home/knp/FlutterSpace/fireabase_firestore_demo/build/google_maps_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:location] /home/knp/FlutterSpace/fireabase_firestore_demo/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:location] /home/knp/FlutterSpace/fireabase_firestore_demo/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/b6dd6c39a9c18076a8b1dc8f209ceedd/jetified-firebase-storage-17.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/b6dd6c39a9c18076a8b1dc8f209ceedd/jetified-firebase-storage-17.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f3fa31746c25a2a91f2a353c068e99fc/jetified-firebase-firestore-19.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f3fa31746c25a2a91f2a353c068e99fc/jetified-firebase-firestore-19.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/a4e875f91425a8186326da5daae7d550/jetified-firebase-auth-17.0.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/a4e875f91425a8186326da5daae7d550/jetified-firebase-auth-17.0.0/AndroidManifest.xml:21:5-44
 MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/9e0617c6de38f9bb7ab93d66e9aeed0a/jetified-firebase-auth-interop-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/9e0617c6de38f9bb7ab93d66e9aeed0a/jetified-firebase-auth-interop-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-core:16.0.9] /home/knp/.gradle/caches/transforms-2/files-2.1/744d6d5c2982c45a2910e5cae5cf4fae/firebase-core-16.0.9/AndroidManifest.xml:5:5-44
@@ -228,6 +249,14 @@ MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/knp/.gradle/caches/t
 MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/knp/.gradle/caches/transforms-2/files-2.1/94acede10bb352919c337885414ed69e/jetified-firebase-iid-17.1.2/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-common:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/c66bd90d75c7ac0d087afdcb111af4f0/jetified-firebase-common-17.0.0/AndroidManifest.xml:6:5-8:41
 MERGED from [com.google.firebase:firebase-common:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/c66bd90d75c7ac0d087afdcb111af4f0/jetified-firebase-common-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/db46b13d3b2010db442dd5a45676e816/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/db46b13d3b2010db442dd5a45676e816/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/a4db93e04ddf7ab6b8e20cc80ac42b46/jetified-play-services-location-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/a4db93e04ddf7ab6b8e20cc80ac42b46/jetified-play-services-location-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/knp/.gradle/caches/transforms-2/files-2.1/975136eeddd1e2c60667a8bd0cfe944d/play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/knp/.gradle/caches/transforms-2/files-2.1/975136eeddd1e2c60667a8bd0cfe944d/play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/knp/.gradle/caches/transforms-2/files-2.1/d5c7156e3036a10ae7e5828ce66cc4d6/jetified-firebase-iid-interop-16.0.1/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/knp/.gradle/caches/transforms-2/files-2.1/d5c7156e3036a10ae7e5828ce66cc4d6/jetified-firebase-iid-interop-16.0.1/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/61050d192d7b40096effddbc75f65a23/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
@@ -256,10 +285,14 @@ MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/knp/.gr
 MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/8f20a297d17e570b6cc42ef3d16609e2/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/ee1ec9f89f00f8cddce4510008e1edca/fragment-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/ee1ec9f89f00f8cddce4510008e1edca/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/e0d8aedfaec9936262ca213e73dd4b9f/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/e0d8aedfaec9936262ca213e73dd4b9f/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/17b125378fc55b264e31eccaff8fa6ca/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/17b125378fc55b264e31eccaff8fa6ca/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/240b5d9dac701614a3199e1fe97e5b6c/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/240b5d9dac701614a3199e1fe97e5b6c/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/29ce464ac5ca0958a20e02a1ba3f00ec/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/29ce464ac5ca0958a20e02a1ba3f00ec/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/6d12fcce36df08538717b88e14b43a49/loader-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/6d12fcce36df08538717b88e14b43a49/loader-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/955a6585d7a9c18d6bf6a87f6ee65069/viewpager-1.0.0/AndroidManifest.xml:20:5-44
@@ -280,32 +313,32 @@ MERGED from [androidx.core:core:1.0.0] /home/knp/.gradle/caches/transforms-2/fil
 MERGED from [androidx.core:core:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/c6efbb44fe0eccf93c45efc2f5961682/core-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/43c49b12233cfc1bc27316e9746a37f4/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/43c49b12233cfc1bc27316e9746a37f4/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/34bd167e41796762d187a04a2472565c/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/34bd167e41796762d187a04a2472565c/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/43face5bbfcb9a9521bfe7a06757c249/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/43face5bbfcb9a9521bfe7a06757c249/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/0694e27135a967a4619b8381997d15ff/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/0694e27135a967a4619b8381997d15ff/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/a7ed0ca913094dcd572a2a491ee77296/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/a7ed0ca913094dcd572a2a491ee77296/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/43face5bbfcb9a9521bfe7a06757c249/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/43face5bbfcb9a9521bfe7a06757c249/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/e4a94d2054024c8be95b68226af78a53/documentfile-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/e4a94d2054024c8be95b68226af78a53/documentfile-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/37caa00d68abfda0e932890140749490/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/37caa00d68abfda0e932890140749490/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/e1d01877c650a22b3c257891754df4cc/print-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/e1d01877c650a22b3c257891754df4cc/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/34bd167e41796762d187a04a2472565c/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/34bd167e41796762d187a04a2472565c/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/cfc7a075599825242ccb3bf9049138d1/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/cfc7a075599825242ccb3bf9049138d1/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/942ae5bb408d75da4f7f89b1ab4a5794/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/942ae5bb408d75da4f7f89b1ab4a5794/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/3f7255e5c39577612d42757c6a1a973c/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/3f7255e5c39577612d42757c6a1a973c/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/0694e27135a967a4619b8381997d15ff/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/0694e27135a967a4619b8381997d15ff/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [io.grpc:grpc-android:1.16.1] /home/knp/.gradle/caches/transforms-2/files-2.1/efa470d3bfffb337a33cf332eccd38b2/grpc-android-1.16.1/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.16.1] /home/knp/.gradle/caches/transforms-2/files-2.1/efa470d3bfffb337a33cf332eccd38b2/grpc-android-1.16.1/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /home/knp/.gradle/caches/transforms-2/files-2.1/3c33eaa10dea5d2e4aaf888c6b3943ed/firebase-database-collection-16.0.1/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /home/knp/.gradle/caches/transforms-2/files-2.1/3c33eaa10dea5d2e4aaf888c6b3943ed/firebase-database-collection-16.0.1/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] /home/knp/.gradle/caches/transforms-2/files-2.1/0615c1481e176c563926cb1cb63678bb/protolite-well-known-types-16.0.1/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] /home/knp/.gradle/caches/transforms-2/files-2.1/0615c1481e176c563926cb1cb63678bb/protolite-well-known-types-16.0.1/AndroidManifest.xml:7:5-9:41
-MERGED from [io.grpc:grpc-android:1.16.1] /home/knp/.gradle/caches/transforms-2/files-2.1/efa470d3bfffb337a33cf332eccd38b2/grpc-android-1.16.1/AndroidManifest.xml:7:5-9:41
-MERGED from [io.grpc:grpc-android:1.16.1] /home/knp/.gradle/caches/transforms-2/files-2.1/efa470d3bfffb337a33cf332eccd38b2/grpc-android-1.16.1/AndroidManifest.xml:7:5-9:41
 INJECTED from /home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/debug/AndroidManifest.xml
 INJECTED from /home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
@@ -316,16 +349,16 @@ INJECTED from /home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/de
 		INJECTED from /home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from /home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/debug/AndroidManifest.xml:6:5-66
-MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
-MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
-MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f3fa31746c25a2a91f2a353c068e99fc/jetified-firebase-firestore-19.0.0/AndroidManifest.xml:14:5-67
-MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f3fa31746c25a2a91f2a353c068e99fc/jetified-firebase-firestore-19.0.0/AndroidManifest.xml:14:5-67
 MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/b6dd6c39a9c18076a8b1dc8f209ceedd/jetified-firebase-storage-17.0.0/AndroidManifest.xml:27:5-67
 MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/b6dd6c39a9c18076a8b1dc8f209ceedd/jetified-firebase-storage-17.0.0/AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f3fa31746c25a2a91f2a353c068e99fc/jetified-firebase-firestore-19.0.0/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f3fa31746c25a2a91f2a353c068e99fc/jetified-firebase-firestore-19.0.0/AndroidManifest.xml:14:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/24f417dd125acd1c022aec65e4435834/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:22:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/24f417dd125acd1c022aec65e4435834/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/knp/.gradle/caches/transforms-2/files-2.1/94acede10bb352919c337885414ed69e/jetified-firebase-iid-17.1.2/AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/knp/.gradle/caches/transforms-2/files-2.1/94acede10bb352919c337885414ed69e/jetified-firebase-iid-17.1.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/6e8264239e96c785c47f5d817f1a46bd/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/6e8264239e96c785c47f5d817f1a46bd/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/e8e56388477c56354603dc4a15a8ee54/jetified-play-services-measurement-impl-16.5.0/AndroidManifest.xml:23:5-67
@@ -334,90 +367,128 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /h
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/93206b64a505edbed7978e450a2eff91/jetified-play-services-measurement-sdk-api-16.5.0/AndroidManifest.xml:23:5-67
 	android:name
 		ADDED from /home/knp/FlutterSpace/fireabase_firestore_demo/android/app/src/debug/AndroidManifest.xml:6:22-64
-uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from [:location] /home/knp/FlutterSpace/fireabase_firestore_demo/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-81
-	android:name
-		ADDED from [:location] /home/knp/FlutterSpace/fireabase_firestore_demo/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-78
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [:cloud_firestore] /home/knp/FlutterSpace/fireabase_firestore_demo/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+ADDED from [:firebase_storage] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] /home/knp/FlutterSpace/fireabase_firestore_demo/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] /home/knp/FlutterSpace/fireabase_firestore_demo/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
 MERGED from [:firebase_core] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
 MERGED from [:firebase_core] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_storage] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_storage] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
-MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f3fa31746c25a2a91f2a353c068e99fc/jetified-firebase-firestore-19.0.0/AndroidManifest.xml:17:9-21:19
-MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f3fa31746c25a2a91f2a353c068e99fc/jetified-firebase-firestore-19.0.0/AndroidManifest.xml:17:9-21:19
+MERGED from [:firebase_auth] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
 MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/b6dd6c39a9c18076a8b1dc8f209ceedd/jetified-firebase-storage-17.0.0/AndroidManifest.xml:30:9-34:19
 MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/b6dd6c39a9c18076a8b1dc8f209ceedd/jetified-firebase-storage-17.0.0/AndroidManifest.xml:30:9-34:19
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f3fa31746c25a2a91f2a353c068e99fc/jetified-firebase-firestore-19.0.0/AndroidManifest.xml:17:9-21:19
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f3fa31746c25a2a91f2a353c068e99fc/jetified-firebase-firestore-19.0.0/AndroidManifest.xml:17:9-21:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/a4e875f91425a8186326da5daae7d550/jetified-firebase-auth-17.0.0/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/a4e875f91425a8186326da5daae7d550/jetified-firebase-auth-17.0.0/AndroidManifest.xml:33:9-39:19
 MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/24f417dd125acd1c022aec65e4435834/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:27:9-33:19
 MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/24f417dd125acd1c022aec65e4435834/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:27:9-33:19
 MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/knp/.gradle/caches/transforms-2/files-2.1/94acede10bb352919c337885414ed69e/jetified-firebase-iid-17.1.2/AndroidManifest.xml:29:9-35:19
 MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/knp/.gradle/caches/transforms-2/files-2.1/94acede10bb352919c337885414ed69e/jetified-firebase-iid-17.1.2/AndroidManifest.xml:29:9-35:19
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/24f417dd125acd1c022aec65e4435834/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:29:13-37
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/a4e875f91425a8186326da5daae7d550/jetified-firebase-auth-17.0.0/AndroidManifest.xml:35:13-37
 	android:name
-		ADDED from [:cloud_firestore] /home/knp/FlutterSpace/fireabase_firestore_demo/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
-meta-data#com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar
-ADDED from [:cloud_firestore] /home/knp/FlutterSpace/fireabase_firestore_demo/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
-	android:value
-		ADDED from [:cloud_firestore] /home/knp/FlutterSpace/fireabase_firestore_demo/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
-	android:name
-		ADDED from [:cloud_firestore] /home/knp/FlutterSpace/fireabase_firestore_demo/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-133
-meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar
-ADDED from [:firebase_core] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
-	android:value
-		ADDED from [:firebase_core] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
-	android:name
-		ADDED from [:firebase_core] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-123
+		ADDED from [:firebase_storage] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar
 ADDED from [:firebase_storage] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
 	android:value
 		ADDED from [:firebase_storage] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 	android:name
 		ADDED from [:firebase_storage] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-126
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
-MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f3fa31746c25a2a91f2a353c068e99fc/jetified-firebase-firestore-19.0.0/AndroidManifest.xml:13:5-79
-MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f3fa31746c25a2a91f2a353c068e99fc/jetified-firebase-firestore-19.0.0/AndroidManifest.xml:13:5-79
-MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/b6dd6c39a9c18076a8b1dc8f209ceedd/jetified-firebase-storage-17.0.0/AndroidManifest.xml:26:5-79
-MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/b6dd6c39a9c18076a8b1dc8f209ceedd/jetified-firebase-storage-17.0.0/AndroidManifest.xml:26:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/24f417dd125acd1c022aec65e4435834/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/24f417dd125acd1c022aec65e4435834/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:23:5-79
-MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/knp/.gradle/caches/transforms-2/files-2.1/94acede10bb352919c337885414ed69e/jetified-firebase-iid-17.1.2/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/knp/.gradle/caches/transforms-2/files-2.1/94acede10bb352919c337885414ed69e/jetified-firebase-iid-17.1.2/AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/6e8264239e96c785c47f5d817f1a46bd/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/6e8264239e96c785c47f5d817f1a46bd/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/e8e56388477c56354603dc4a15a8ee54/jetified-play-services-measurement-impl-16.5.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/e8e56388477c56354603dc4a15a8ee54/jetified-play-services-measurement-impl-16.5.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/93206b64a505edbed7978e450a2eff91/jetified-play-services-measurement-sdk-api-16.5.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/93206b64a505edbed7978e450a2eff91/jetified-play-services-measurement-sdk-api-16.5.0/AndroidManifest.xml:24:5-79
-MERGED from [io.grpc:grpc-android:1.16.1] /home/knp/.gradle/caches/transforms-2/files-2.1/efa470d3bfffb337a33cf332eccd38b2/grpc-android-1.16.1/AndroidManifest.xml:11:5-79
-MERGED from [io.grpc:grpc-android:1.16.1] /home/knp/.gradle/caches/transforms-2/files-2.1/efa470d3bfffb337a33cf332eccd38b2/grpc-android-1.16.1/AndroidManifest.xml:11:5-79
+provider#androidx.core.content.FileProvider
+ADDED from [:flutter_webview_plugin] /home/knp/FlutterSpace/fireabase_firestore_demo/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:9:9-18:20
+	android:grantUriPermissions
+		ADDED from [:flutter_webview_plugin] /home/knp/FlutterSpace/fireabase_firestore_demo/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-47
+	android:authorities
+		ADDED from [:flutter_webview_plugin] /home/knp/FlutterSpace/fireabase_firestore_demo/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-64
+	android:exported
+		ADDED from [:flutter_webview_plugin] /home/knp/FlutterSpace/fireabase_firestore_demo/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-37
+	tools:replace
+		ADDED from [:flutter_webview_plugin] /home/knp/FlutterSpace/fireabase_firestore_demo/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-48
 	android:name
-		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:23:22-76
-uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
-	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
-	android:required
-		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
-uses-library#org.apache.http.legacy
-ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
-	android:required
-		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+		ADDED from [:flutter_webview_plugin] /home/knp/FlutterSpace/fireabase_firestore_demo/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:flutter_webview_plugin] /home/knp/FlutterSpace/fireabase_firestore_demo/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-17:53
+	android:resource
+		ADDED from [:flutter_webview_plugin] /home/knp/FlutterSpace/fireabase_firestore_demo/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-50
 	android:name
-		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
-meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
-ADDED from [com.google.firebase:firebase-firestore:19.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f3fa31746c25a2a91f2a353c068e99fc/jetified-firebase-firestore-19.0.0/AndroidManifest.xml:18:13-20:85
+		ADDED from [:flutter_webview_plugin] /home/knp/FlutterSpace/fireabase_firestore_demo/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-67
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar
+ADDED from [:cloud_firestore] /home/knp/FlutterSpace/fireabase_firestore_demo/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [com.google.firebase:firebase-firestore:19.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f3fa31746c25a2a91f2a353c068e99fc/jetified-firebase-firestore-19.0.0/AndroidManifest.xml:20:17-82
+		ADDED from [:cloud_firestore] /home/knp/FlutterSpace/fireabase_firestore_demo/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-firestore:19.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f3fa31746c25a2a91f2a353c068e99fc/jetified-firebase-firestore-19.0.0/AndroidManifest.xml:19:17-111
+		ADDED from [:cloud_firestore] /home/knp/FlutterSpace/fireabase_firestore_demo/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-133
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:location] /home/knp/FlutterSpace/fireabase_firestore_demo/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from [:location] /home/knp/FlutterSpace/fireabase_firestore_demo/build/location/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-78
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_core] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-123
+meta-data#com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_auth] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_auth] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_auth] /home/knp/FlutterSpace/fireabase_firestore_demo/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-122
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-storage:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/b6dd6c39a9c18076a8b1dc8f209ceedd/jetified-firebase-storage-17.0.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f3fa31746c25a2a91f2a353c068e99fc/jetified-firebase-firestore-19.0.0/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f3fa31746c25a2a91f2a353c068e99fc/jetified-firebase-firestore-19.0.0/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/24f417dd125acd1c022aec65e4435834/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/24f417dd125acd1c022aec65e4435834/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/knp/.gradle/caches/transforms-2/files-2.1/94acede10bb352919c337885414ed69e/jetified-firebase-iid-17.1.2/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/knp/.gradle/caches/transforms-2/files-2.1/94acede10bb352919c337885414ed69e/jetified-firebase-iid-17.1.2/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/6e8264239e96c785c47f5d817f1a46bd/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/6e8264239e96c785c47f5d817f1a46bd/jetified-play-services-measurement-16.5.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/e8e56388477c56354603dc4a15a8ee54/jetified-play-services-measurement-impl-16.5.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/e8e56388477c56354603dc4a15a8ee54/jetified-play-services-measurement-impl-16.5.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/93206b64a505edbed7978e450a2eff91/jetified-play-services-measurement-sdk-api-16.5.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/93206b64a505edbed7978e450a2eff91/jetified-play-services-measurement-sdk-api-16.5.0/AndroidManifest.xml:24:5-79
+MERGED from [io.grpc:grpc-android:1.16.1] /home/knp/.gradle/caches/transforms-2/files-2.1/efa470d3bfffb337a33cf332eccd38b2/grpc-android-1.16.1/AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.16.1] /home/knp/.gradle/caches/transforms-2/files-2.1/efa470d3bfffb337a33cf332eccd38b2/grpc-android-1.16.1/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/b6dd6c39a9c18076a8b1dc8f209ceedd/jetified-firebase-storage-17.0.0/AndroidManifest.xml:26:22-76
 meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
 ADDED from [com.google.firebase:firebase-storage:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/b6dd6c39a9c18076a8b1dc8f209ceedd/jetified-firebase-storage-17.0.0/AndroidManifest.xml:31:13-33:85
 	android:value
 		ADDED from [com.google.firebase:firebase-storage:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/b6dd6c39a9c18076a8b1dc8f209ceedd/jetified-firebase-storage-17.0.0/AndroidManifest.xml:33:17-82
 	android:name
 		ADDED from [com.google.firebase:firebase-storage:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/b6dd6c39a9c18076a8b1dc8f209ceedd/jetified-firebase-storage-17.0.0/AndroidManifest.xml:32:17-107
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:19.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f3fa31746c25a2a91f2a353c068e99fc/jetified-firebase-firestore-19.0.0/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:19.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f3fa31746c25a2a91f2a353c068e99fc/jetified-firebase-firestore-19.0.0/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:19.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f3fa31746c25a2a91f2a353c068e99fc/jetified-firebase-firestore-19.0.0/AndroidManifest.xml:19:17-111
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/a4e875f91425a8186326da5daae7d550/jetified-firebase-auth-17.0.0/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/a4e875f91425a8186326da5daae7d550/jetified-firebase-auth-17.0.0/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/a4e875f91425a8186326da5daae7d550/jetified-firebase-auth-17.0.0/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/a4e875f91425a8186326da5daae7d550/jetified-firebase-auth-17.0.0/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/a4e875f91425a8186326da5daae7d550/jetified-firebase-auth-17.0.0/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/a4e875f91425a8186326da5daae7d550/jetified-firebase-auth-17.0.0/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/a4e875f91425a8186326da5daae7d550/jetified-firebase-auth-17.0.0/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/a4e875f91425a8186326da5daae7d550/jetified-firebase-auth-17.0.0/AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/a4e875f91425a8186326da5daae7d550/jetified-firebase-auth-17.0.0/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/a4e875f91425a8186326da5daae7d550/jetified-firebase-auth-17.0.0/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/a4e875f91425a8186326da5daae7d550/jetified-firebase-auth-17.0.0/AndroidManifest.xml:37:17-109
 uses-permission#android.permission.WAKE_LOCK
 ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /home/knp/.gradle/caches/transforms-2/files-2.1/24f417dd125acd1c022aec65e4435834/jetified-play-services-measurement-api-16.5.0/AndroidManifest.xml:24:5-68
 MERGED from [com.google.firebase:firebase-iid:17.1.2] /home/knp/.gradle/caches/transforms-2/files-2.1/94acede10bb352919c337885414ed69e/jetified-firebase-iid-17.1.2/AndroidManifest.xml:24:5-68
@@ -484,6 +555,18 @@ ADDED from [com.google.firebase:firebase-common:17.0.0] /home/knp/.gradle/caches
 		ADDED from [com.google.firebase:firebase-common:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/c66bd90d75c7ac0d087afdcb111af4f0/jetified-firebase-common-17.0.0/AndroidManifest.xml:16:13-36
 	android:name
 		ADDED from [com.google.firebase:firebase-common:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/c66bd90d75c7ac0d087afdcb111af4f0/jetified-firebase-common-17.0.0/AndroidManifest.xml:13:13-77
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/f1e8a552b6270f33a49ec3b6de09bbea/play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/knp/.gradle/caches/transforms-2/files-2.1/61050d192d7b40096effddbc75f65a23/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
 	android:exported
